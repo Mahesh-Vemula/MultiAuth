@@ -5,4 +5,5 @@
       <property name="prefix" value="/WEB-INF/jsp/" />
       <property name="suffix" value=".jsp" />
    </bean>
+   <bean name="/contact" class="org.mv.controllers.ContactController"></bean>
 </beans>

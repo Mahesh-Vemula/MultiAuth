@@ -1,1 +1,2 @@
-org/eclipse/che/examples/GreetingController.class
+org\mv\controllers\ContactController.class
+org\eclipse\che\examples\GreetingController.class
